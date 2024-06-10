@@ -1,6 +1,5 @@
 {
     "postAttachCommand":{
-        "server": "npm start",
-        "call": "echo 'hello!'"
+        "server": "npm start"
     }
 }
