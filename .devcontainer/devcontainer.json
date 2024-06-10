@@ -1,6 +1,6 @@
 {
-    "postStartCommand":[
-        "npm start",
-        "bash 'postStartCommand OK'"
-    ]
+    "postAttachCommand":{
+        "server": "npm start",
+        "call": "echo 'hello!'"
+    }
 }
