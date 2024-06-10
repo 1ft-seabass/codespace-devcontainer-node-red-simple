@@ -1,1 +1,1 @@
-# node-red-codespace-devcontainer-simple
+# codespace-devcontainer-node-red-simple

@@ -1,0 +1,6 @@
+{
+    "postStartCommand":[
+        "npm start",
+        "bash 'postStartCommand OK'"
+    ]
+}
